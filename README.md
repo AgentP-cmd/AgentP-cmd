@@ -13,7 +13,7 @@
 ```javascript
 const Bry = {
     nicknames: "Perry" | "Bread Dev",
-    bio: "I'm a BSIT Fresh Graduate who studied web and mobile development
+    bio: "I'm a Software Cadet Engineer at Gcash who studied web and mobile development
           and dreaming to be a successful software engineer",
     code: ["Javascript", "NodeJS", "Dart", "PHP"],
     askMeAbout: ["web dev", "mobile dev", "tech", "video games"],
